@@ -1,0 +1,8 @@
+{
+  "db_url": "postgresql+psycopg://postgres:12345@localhost:5433/ai",
+  "csv_path": "laboffuture_chunks.csv",
+  "similarity_threshold": 0.7,
+  "default_persona": "default",
+  "log_conversations": true,
+  "log_path": "conversation_logs"
+}
